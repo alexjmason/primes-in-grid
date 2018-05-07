@@ -1,4 +1,4 @@
-# primes_in_grid
+# Primes in Grid
 Finding primes in an N * N matrix
 
 This repository is for implementing and testing finding primes in N*N matrices.
